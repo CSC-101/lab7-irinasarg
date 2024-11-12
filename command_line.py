@@ -9,7 +9,9 @@ def main():
         except ValueError:
             pass
         i += 1
+    print(total_sum)
 
 if __name__ == "__main__":
     main()
+
 
